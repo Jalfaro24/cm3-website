@@ -42,6 +42,6 @@ def add_two(x, y):
 
 Here is an image:
 
-![cute dog]([https://i.imgur.com/dY93WHQ.jpeg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9OmR0ypCyOU&psig=AOvVaw0DIcjJBqn_2EiPYTl0stO-&ust=1715702675898000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODSwNeAi4YDFQAAAAAdAAAAABAE)](https://i.ytimg.com/vi/tvCUmH92HfU/maxresdefault.jpg](https://steamuserimages-a.akamaihd.net/ugc/2224276042719079866/D87A67E99235012DD1FF70DD9FC2CB187361232D/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false ) 
+![cute dog](https://i.imgur.com/dY93WHQ.jpeg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9OmR0ypCyOU&psig=AOvVaw0DIcjJBqn_2EiPYTl0stO-&ust=1715702675898000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODSwNeAi4YDFQAAAAAdAAAAABAE)](https://i.ytimg.com/vi/tvCUmH92HfU/maxresdefault.jpg](https://steamuserimages-a.akamaihd.net/ugc/2224276042719079866/D87A67E99235012DD1FF70DD9FC2CB187361232D/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false](https://steamuserimages-a.akamaihd.net/ugc/2224276042719079866/D87A67E99235012DD1FF70DD9FC2CB187361232D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false ) 
 
 This page illustrates low code principles. In exchange for giving up pixel-level control of the page you can make web pages easily through a simple text file.
